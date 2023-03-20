@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.17;
+pragma solidity 0.8.4;
 
 contract Game5 {
   bool public isWon;
@@ -11,4 +11,5 @@ contract Game5 {
 
     isWon = true;
   }
+
 }
